@@ -1,2 +1,3 @@
 # Demo 
-just test 
+
+just test .
